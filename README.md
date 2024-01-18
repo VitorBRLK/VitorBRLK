@@ -6,6 +6,14 @@ Bem-vindo ao meu espaço no GitHub! 👋
 
 Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por tecnologia, programação e inovação. Sou apaixonado por resolver problemas e criar soluções elegantes que contribuem para a comunidade de desenvolvedores.
 
+
+## 📈 Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorBRLK&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/VitorBRLK)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBRLK&layout=compact)](https://github.com/VitorBRLK)
+
+
 ## 🚀 Projetos Destacados
 
 ### 1. [Nome do Projeto 1](link_projeto_1)
@@ -25,12 +33,6 @@ Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu 
 - **Linguagens de Programação:** Python, JavaScript 
 - **Frameworks e Bibliotecas:** Django, React
 - **Ferramentas de Desenvolvimento:** VScode
-
-## 📈 Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorBRLK&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/VitorBRLK)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBRLK&layout=compact)](https://github.com/VitorBRLK)
 
 ## 📫 Entre em Contato
 
