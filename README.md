@@ -22,20 +22,20 @@ Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por
 
 Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu arsenal de desenvolvimento:
 
-- **Linguagens de Programação:** (Liste as linguagens que você usa)
-- **Frameworks e Bibliotecas:** (Destaque os principais frameworks e bibliotecas)
-- **Ferramentas de Desenvolvimento:** (IDEs, editores de texto, etc.)
+- **Linguagens de Programação:** Python, JavaScript 
+- **Frameworks e Bibliotecas:** Django, React
+- **Ferramentas de Desenvolvimento:** VScode
 
 ## 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/seu_nome_de_usuario)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VitorBRLK&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/VitorBRLK)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact)](https://github.com/seu_nome_de_usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBRLK&layout=compact)](https://github.com/VitorBRLK)
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_linkedin)](link_linkedin)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=link_instagram)](link_instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=link_linkedin)](https://www.linkedin.com/in/vitor-berlink-santos-7b1a36185/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=link_instagram)](https://www.instagram.com/vitorberlink/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:seu@email.com)](mailto:seu@email.com)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades. Vamos construir algo incrível juntos! 🌟
