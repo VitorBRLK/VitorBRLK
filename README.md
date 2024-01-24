@@ -13,19 +13,6 @@ Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBRLK&layout=compact)](https://github.com/VitorBRLK)
 
-
-## 🚀 Projetos Destacados
-
-### 1. [Nome do Projeto 1](link_projeto_1)
-   Breve descrição do projeto e seu propósito. Destaque principais tecnologias usadas, conquistas e qualquer outra informação relevante.
-
-   ![Imagem do Projeto 1](link_imagem_projeto_1)
-
-### 2. [Nome do Projeto 2](link_projeto_2)
-   Outra descrição breve, tecnologias usadas e conquistas notáveis.
-
-   ![Imagem do Projeto 2](link_imagem_projeto_2)
-
 ## 🛠️ Tecnologias e Ferramentas
 
 Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu arsenal de desenvolvimento:
