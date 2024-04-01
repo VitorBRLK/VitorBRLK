@@ -18,7 +18,7 @@ Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por
 Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu arsenal de desenvolvimento:
 
 - **Linguagens de Programação:** Python, JavaScript 
-- **Frameworks e Bibliotecas:** Django, React
+- **Frameworks e Bibliotecas:** Django
 - **Ferramentas de Desenvolvimento:** VScode
 
 ## 📫 Entre em Contato
