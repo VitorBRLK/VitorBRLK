@@ -2,8 +2,6 @@
 
 ---
 
-Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por tecnologia, programação e inovação. Sou apaixonado por resolver problemas e criar soluções elegantes que contribuem para a comunidade de desenvolvedores.
-
 ## Tecnologias e Ferramentas
 
 Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu arsenal de desenvolvimento:
