@@ -18,6 +18,6 @@ Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu 
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=link_instagram)](https://www.instagram.com/vitorberlink/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:seu@email.com)](mailto:seu@email.com)
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades. Vamos construir algo incrível juntos! 🌟
+Sinta-se à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades. Vamos construir algo incrível juntos! 
 
-_Obrigado por visitar!_ 😊
+_Obrigado por visitar!_
