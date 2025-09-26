@@ -4,7 +4,7 @@
 
 ## Tecnologias e Ferramentas
 
-Destaco algumas das tecnologias e ferramentas que são parte fundamental do meu arsenal de desenvolvimento:
+Tecnologias e ferramentas:
 
 - **Linguagens de Programação:** Python, JavaScript 
 - **Frameworks e Bibliotecas:** Django
