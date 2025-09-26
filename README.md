@@ -2,8 +2,6 @@
 
 ---
 
-Bem-vindo ao meu espaço no GitHub! 👋
-
 Aqui você encontrará uma variedade de projetos que refletem meu entusiasmo por tecnologia, programação e inovação. Sou apaixonado por resolver problemas e criar soluções elegantes que contribuem para a comunidade de desenvolvedores.
 
 ## 🛠️ Tecnologias e Ferramentas
